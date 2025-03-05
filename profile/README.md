@@ -32,8 +32,8 @@ Whether you're a beginner aiming for your first PR or an experienced dev wanting
 
 ## 🚀 How to Get Started?
 1. ⭐ **Star & Watch this repository** to stay updated.  
-2. 💬 **Join the [Discussions](https://github.com/SoftwareGuys/your-repo-name/discussions)** – Introduce yourself and connect with others.  
-3. 🛠️ **Find an Issue** – Browse tasks from our [curated projects](https://github.com/SoftwareGuys/your-repo-name/issues).  
+2. 💬 **Join the [Discussions](https://github.com/Software-Guys/desks.works/discussions)** – Introduce yourself and connect with others.  
+3. 🛠️ **Find an Issue** – Browse tasks from our [curated projects](https://github.com/Software-Guys/desks.works/issues).  
 4. 🚀 **Start Contributing** – Submit PRs, review code, and build with the community!  
 
 🔗 **[Join Our GitHub Organization](https://github.com/Software-Guys)**  
