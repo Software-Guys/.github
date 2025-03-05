@@ -5,7 +5,7 @@ Imagine this: You’re a passionate developer, constantly honing your skills, so
 
 Your GitHub profile is your resume, portfolio, and identity as a developer. It showcases not just what you’ve learned, but how you apply it in real-world scenarios. The problem? Finding the right projects to contribute to is tedious, and many developers struggle to make meaningful contributions that elevate their profiles.  
 
-![Alt text](https://raw.githubusercontent.com/software-guys/.github/profile/Screenshot 2025-03-05 202401.png)
+![Alt text](https://github.com/Software-Guys/.github/profile/Screenshot 2025-03-05 202401.png)
 
 **That’s where Software Guys comes in.**
 
