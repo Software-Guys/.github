@@ -9,9 +9,9 @@ Before you start, please read these guidelines to ensure a smooth and collaborat
 ## 🛠️ How to Contribute
 
 ### 1. **Find an Issue**
-- Browse our [Good First Issues](https://github.com/SoftwareGuys/your-repo-name/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) if you’re new.  
-- Check the [Open Issues](https://github.com/SoftwareGuys/your-repo-name/issues) for tasks matching your skills.  
-- **No issue fits?** [Open a new one](https://github.com/SoftwareGuys/your-repo-name/issues/new) to discuss your idea first.
+- Browse our [Good First Issues](https://github.com/Software-Guys/desks.works/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) if you’re new.  
+- Check the [Open Issues](https://github.com/Software-Guys/desks.works/issues) for tasks matching your skills.  
+- **No issue fits?** [Open a new one](https://github.com/Software-Guys/desks.works/issues/new) to discuss your idea first.
 
 ### 2. **Claim the Issue**
 - Comment on the issue to let others know you’re working on it.  
@@ -22,4 +22,4 @@ Before you start, please read these guidelines to ensure a smooth and collaborat
    Click "Fork" at the top right of this repo.  
 2. **Clone Your Fork**  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Software-Guys/your-repo-name.git
