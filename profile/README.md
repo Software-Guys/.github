@@ -51,6 +51,6 @@ We welcome all contributions! Check out **[CONTRIBUTING.md](CONTRIBUTING.md)** f
 
 ## 📢 Stay Updated!
 Follow us on:  
-🐦 [Twitter]([https://twitter.com/SoftwareGuys](https://x.com/i/communities/1877144599015338394))  
+🐦 [Twitter]([https://x.com/i/communities/1877144599015338394])  
 
 **🚀 Let's build together. Open-source is for everyone!**
